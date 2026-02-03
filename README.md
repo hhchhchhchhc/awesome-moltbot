@@ -2,7 +2,6 @@
 
 > A curated collection of resources for Moltbot (OpenClaw) - the open-source personal AI agent framework. Documentation, tutorials, skills, security guides, and community resources.
 
-**100,000+ GitHub Stars** | **2M+ Weekly Visitors** | **500+ Community Skills**
 
 [English](#contents) | [中文](#中文版)
 
