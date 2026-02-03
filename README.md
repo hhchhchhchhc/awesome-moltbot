@@ -59,13 +59,21 @@
 | **MoltHub Skills** | [molthub.com](https://molthub.com) | Skills marketplace |
 
 ### Related Repositories
-| Repository | Description |
-|------------|-------------|
-| [openclaw/openclaw-skills](https://github.com/openclaw/openclaw-skills) | Official skills library |
-| [openclaw/moltbot-trading-assistant](https://github.com/openclaw/moltbot-trading-assistant) | Trading integration with Hyperliquid |
-| [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) | Community skills collection |
+| Repository | Description | Verified |
+|------------|-------------|----------|
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Main repository (149k+ stars) | Yes |
+| [moltbot/moltbot](https://github.com/moltbot/moltbot) | Legacy Moltbot repository | Yes |
+| [molt-bot](https://github.com/molt-bot) | Moltbot GitHub organization | Yes |
+| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | Community skills collection | Yes |
 
-**Sources:** [OpenClaw Official Blog](https://openclaw.ai/blog/introducing-openclaw) | [Vertu News](https://vertu.com/ai-tools/openclaw-achieves-100k-github-stars-after-third-rebrand-the-lobsters-final-evolution/) | [Trending Topics EU](https://www.trendingtopics.eu/openclaw-2-million-visitors-in-a-week/)
+### Additional Resources
+| Resource | URL | Description |
+|----------|-----|-------------|
+| **Wikipedia** | [en.wikipedia.org/wiki/OpenClaw](https://en.wikipedia.org/wiki/OpenClaw) | Official Wikipedia page |
+| **Railway Deploy** | [railway.com/deploy/openclaw](https://railway.com/deploy/openclaw-prev-clawdbot-moltbot-self-host) | One-click Railway deployment |
+| **Home Assistant** | [community.home-assistant.io](https://community.home-assistant.io/t/openclaw-clawdbot-on-home-assistant/981467) | Home Assistant integration |
+
+**Sources:** [OpenClaw Official Blog](https://openclaw.ai/blog/introducing-openclaw) | [Wikipedia](https://en.wikipedia.org/wiki/OpenClaw) | [Vertu News](https://vertu.com/ai-tools/openclaw-achieves-100k-github-stars-after-third-rebrand-the-lobsters-final-evolution/) | [Trending Topics EU](https://www.trendingtopics.eu/openclaw-2-million-visitors-in-a-week/)
 
 ---
 
@@ -250,11 +258,12 @@ moltbot skills list
 | **Communication** | Slack, Teams, Messaging | 25+ |
 
 ### Skill Resources
-| Resource | URL | Description |
-|----------|-----|-------------|
-| MoltDirectory | [GitHub](https://www.reddit.com/r/LocalLLM/comments/1qq32b4/resource_500_formatted_skills_for_moltbotclawdbot/) | 500+ pre-built skills |
-| Official Skills Repo | [openclaw-skills](https://github.com/BankrBot/openclaw-skills) | Curated official skills |
-| Community Skills | Reddit r/LocalLLM | User-contributed skills |
+| Resource | URL | Description | Verified |
+|----------|-----|-------------|----------|
+| MoltDirectory | [Reddit Post](https://www.reddit.com/r/LocalLLM/comments/1qq32b4/resource_500_formatted_skills_for_moltbotclawdbot/) | 500+ pre-built skills | Yes |
+| Awesome OpenClaw Skills | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | Community curated skills | Yes |
+| Community Skills | [r/LocalLLM](https://www.reddit.com/r/LocalLLM/) | User-contributed skills | Yes |
+| Skills SaaS Directory | [Reddit SaaS](https://www.reddit.com/r/SaaS/comments/1qpodoh/i_opensourced_a_directory_of_500_skills_for/) | Open-sourced directory | Yes |
 
 ### Creating Custom Skills
 ```markdown
@@ -517,27 +526,36 @@ services:
 ## Research & Articles
 
 ### News Coverage
-| Article | Source | Date |
-|---------|--------|------|
-| [Moltbot Molts Again and Becomes OpenClaw](https://www.forbes.com/sites/ronschmelzer/2026/01/30/moltbot-molts-again-and-becomes-openclaw-pushback-and-concerns-grow/) | Forbes | Jan 2026 |
-| [Why Moltbot May Signal AI Crisis](https://www.paloaltonetworks.com/blog/network-security/why-moltbot-may-signal-ai-crisis/) | Palo Alto Networks | Jan 2026 |
-| [OpenClaw Achieves 100k GitHub Stars](https://vertu.com/ai-tools/openclaw-achieves-100k-github-stars-after-third-rebrand-the-lobsters-final-evolution/) | Vertu | Jan 2026 |
-| [OpenClaw: 2 Million Visitors in a Week](https://www.trendingtopics.eu/openclaw-2-million-visitors-in-a-week/) | Trending Topics | Jan 2026 |
-| [ClawdBot: Not a ChatGPT Alternative](https://vertu.com/lifestyle/clawdbot-not-a-chatgpt-alternative-but-your-7x24-digital-employee/) | Vertu | 2025 |
+| Article | Source | Date | Verified |
+|---------|--------|------|----------|
+| [Moltbot Molts Again and Becomes OpenClaw](https://www.forbes.com/sites/ronschmelzer/2026/01/30/moltbot-molts-again-and-becomes-openclaw-pushback-and-concerns-grow/) | Forbes | Jan 2026 | Yes |
+| [Why Moltbot May Signal AI Crisis](https://www.paloaltonetworks.com/blog/network-security/why-moltbot-may-signal-ai-crisis/) | Palo Alto Networks | Jan 2026 | Yes |
+| [OpenClaw Achieves 100k GitHub Stars](https://vertu.com/ai-tools/openclaw-achieves-100k-github-stars-after-third-rebrand-the-lobsters-final-evolution/) | Vertu | Jan 2026 | Yes |
+| [OpenClaw: 2 Million Visitors in a Week](https://www.trendingtopics.eu/openclaw-2-million-visitors-in-a-week/) | Trending Topics | Jan 2026 | Yes |
+| [Personal AI Agents Like OpenClaw Are a Security Nightmare](https://blogs.cisco.com/ai/personal-ai-agents-like-openclaw-are-a-security-nightmare) | Cisco | 2026 | Yes |
+| [Moltbot Open Source AI Security Risks](https://cybernews.com/security/moltbot-open-source-ai-security-risks/) | CyberNews | 2026 | Yes |
+| [OpenClaw Bug Enables One-Click RCE](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html) | The Hacker News | Feb 2026 | Yes |
+| [What is OpenClaw/Moltbot](https://coinmarketcap.com/academy/article/what-is-openclaw-moltbot-clawdbot-ai-agent-crypto-twitter) | CoinMarketCap | 2026 | Yes |
+| [ClawdBot: Not a ChatGPT Alternative](https://vertu.com/lifestyle/clawdbot-not-a-chatgpt-alternative-but-your-7x24-digital-employee/) | Vertu | 2025 | Yes |
 
 ### Technical Analysis
-| Article | Source | Focus |
-|---------|--------|-------|
-| [Memory Architecture Deep Dive](https://medium.com/aimonks/clawdbots-memory-architecture-pre-compaction-flush-the-engineering-reality-behind-never-c8ff84a4a11a) | AI Monks (Medium) | Memory system |
-| [Security Risks in AI Agents](https://kenhuangus.substack.com/p/moltbook-security-risks-in-ai-agent) | Ken Huang (Substack) | Security analysis |
-| [Clawdbot Renamed Moltbot Guide](https://help.apiyi.com/en/clawdbot-renamed-moltbot-complete-guide-en.html) | API Yi | Migration guide |
+| Article | Source | Focus | Verified |
+|---------|--------|-------|----------|
+| [Memory Architecture Deep Dive](https://medium.com/aimonks/clawdbots-memory-architecture-pre-compaction-flush-the-engineering-reality-behind-never-c8ff84a4a11a) | AI Monks (Medium) | Memory system | Yes |
+| [Security Risks in AI Agents](https://kenhuangus.substack.com/p/moltbook-security-risks-in-ai-agent) | Ken Huang (Substack) | Security analysis | Yes |
+| [Clawdbot Renamed Moltbot Guide](https://help.apiyi.com/en/clawdbot-renamed-moltbot-complete-guide-en.html) | API Yi | Migration guide | Yes |
+| [Moltbook Inside the AI-Only Social Network](https://medium.com/@adnanmasood/moltbook-inside-the-ai-only-social-network-that-has-everyone-talking-5e53613593ff) | Medium | Moltbook ecosystem | Yes |
+| [OpenClaw (fka Moltbot, fka Clawdbot)](https://www.news.aakashg.com/p/openclaw-fka-moltbot-fka-clawdbot) | Aakash G Newsletter | History overview | Yes |
+| [Clawdbot is Dead, Long Live Moltbot](https://levelup.gitconnected.com/clawdbot-is-dead-long-live-moltbot-5dc6a527312c) | Git Connected | Transition story | Yes |
+| [Moltbot for OpenClaw Agents](https://www.analyticsvidhya.com/blog/2026/02/moltbook-for-openclaw-agents/) | Analytics Vidhya | Integration guide | Yes |
 
 ### Chinese Coverage (中文报道)
-| Article | Source |
-|---------|--------|
-| [创业邦报道](https://m.cyzone.cn/article/823301.html) | 创业邦 |
-| [网易新闻](https://www.163.com/dy/article/KKFJB56305500HK7.html) | 网易 |
-| [53AI分析](https://www.53ai.com/news/OpenSourceLLM/2026012949568.html) | 53AI |
+| Article | Source | Verified |
+|---------|--------|----------|
+| [创业邦报道](https://m.cyzone.cn/article/823301.html) | 创业邦 | Yes |
+| [网易新闻](https://www.163.com/dy/article/KKFJB56305500HK7.html) | 网易 | Yes |
+| [53AI分析](https://www.53ai.com/news/OpenSourceLLM/2026012949568.html) | 53AI | Yes |
+| [36氪报道](https://eu.36kr.com/en/p/3661357114942337) | 36氪 | Yes |
 
 ---
 
@@ -785,5 +803,4 @@ Moltbot 的强大能力伴随着重大安全考量。"致命三角"风险：
 ![f2ded2c901a4e731b32d4addcce25f3c](https://github.com/user-attachments/assets/10d5fefd-a939-435a-b252-ec29f2bbbbea)
 ![微信图片_20260203141110_215_152](https://github.com/user-attachments/assets/bced6473-80cd-4569-9d20-44c46ffde382)
 ![微信图片_20260203141111_216_152](https://github.com/user-attachments/assets/320f2928-8201-4977-b81d-9dd47f94c48f)
-
 </div>
